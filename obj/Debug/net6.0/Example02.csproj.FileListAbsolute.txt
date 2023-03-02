@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/Example02/bin/Debug/net6.0/Example02
+/Users/sergeykostiv/Desktop/Example02/bin/Debug/net6.0/Example02.deps.json
+/Users/sergeykostiv/Desktop/Example02/bin/Debug/net6.0/Example02.runtimeconfig.json
+/Users/sergeykostiv/Desktop/Example02/bin/Debug/net6.0/Example02.dll
+/Users/sergeykostiv/Desktop/Example02/bin/Debug/net6.0/Example02.pdb
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.dll
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/refint/Example02.dll
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.pdb
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/Example02.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/Example02/obj/Debug/net6.0/ref/Example02.dll
